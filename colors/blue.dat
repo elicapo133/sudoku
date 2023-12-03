@@ -1,0 +1,31 @@
+Background
+202, 240, 248
+
+Padding
+3, 5, 25
+
+Linea finita
+3, 5, 94
+
+Linea gruesa
+3, 5, 94
+
+Celda seleccionada
+100, 100, 255
+
+Celda indirectamente seleccionada (misma fila, columna o cuadrante)
+144, 224, 239
+
+Numero
+0, 0, 0
+
+Numero usuario (que lo pusiste vos, no venía)
+70, 70, 70
+
+Número compartido (seleccionas una celda con num 3, que color son los otros 3) 
+0, 0, 100
+
+Numero compartido de usuario (combinación de los dos de arriba)
+0, 0, 100
+
+

@@ -1,0 +1,16 @@
+El juego lee solo el archivo que tenga el nombre "color.dat". Si querés cambiar de archivo de color, cambiás el nombre
+del que quieras por "color.dat". Si querés crear una nueva paleta, copia alguno de los archivos que te dejé y cambiale los valores.
+Dejá el archivo como está, los espacios, las comas, porque sino, no te lo va a leer. Acordate que 255 es el máximo y no se pueden números con coma. Además también podés poner los números en hexadecimal poniendo un '#' antes (ej. #ff00ff que sería lo mismo que 255, 0, 255).
+
+Si windows le molesta abrir un .dat, decile que lo abra igual que es texto nada mas. Abrilo con bloc de notas.
+
+Los archivos de colores tienen una sintaxis onda:
+
+Nombre del color
+255, 0, 145
+
+Eso significa, asignale al color 255 de rojo, 0 de verde y 145 de azul. También se podría poner en hex:
+
+Nombre del color
+#ff0091
+
